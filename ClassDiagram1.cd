@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="BorderDown">
+    <Position X="3" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAQAAAAAAAAAAAAEAAAAABBIAAAACAAA=</HashCode>
+      <FileName>BorderDown.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BorderLeft">
+    <Position X="16" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAACAAAAQAAAAAAAAAAAAEAAAAABBAAAAAAABA=</HashCode>
+      <FileName>BorderLeft.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BorderRight">
+    <Position X="24.5" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIQAAACAAAAAAAAEAAAAABBAAAAAAAAI=</HashCode>
+      <FileName>BorderRight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BorderUp">
+    <Position X="33" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAgAAAQIAAAAAAAAAAAEAAAAABBAAAAAAAAA=</HashCode>
+      <FileName>BorderUp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet">
+    <Position X="37.25" Y="1.75" Width="5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAAAAAAQBAAAAAAAAAAAEAAAAEBBQAAAAQAAA=</HashCode>
+      <FileName>Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera" Collapsed="true">
+    <Position X="61.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBACAAAAAAAABAAAAAACAAUAAABAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ErrorLogger" Collapsed="true">
+    <Position X="63.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQgAAAAAAACQAAABACABABAAAAAEAAAA=</HashCode>
+      <FileName>ErrorLogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Explosion">
+    <Position X="20.25" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAECIAAEEAEAAAAABBAAAAAAAAg=</HashCode>
+      <FileName>Explosion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="65.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAIAACEABRAAAAEAAAQAQAAjAAAAAAAIABAAAAAA=</HashCode>
+      <FileName>gamecode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject">
+    <Position X="29.5" Y="18" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABSAAAAAACAAAAgAEIQAIAQAEAEBAAEABRQAYAJAAAg=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverScreen">
+    <Position X="43" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAgAQAAAAQAAAAAAAEAAAIABBAAAAAAAAA=</HashCode>
+      <FileName>GameOverScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTimer" Collapsed="true">
+    <Position X="67" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAQAAAAgAIAAAAQAIAAAAAAAAIAAAAggA=</HashCode>
+      <FileName>gametimer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelDisplay">
+    <Position X="53" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgAQCAACAAAAAAAAEAAAAABBAAAAAAAAA=</HashCode>
+      <FileName>LevelDisplay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Message" Collapsed="true">
+    <Position X="61.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAACAAAAAAAAAAA=</HashCode>
+      <FileName>LevelManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelManager">
+    <Position X="28.75" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAiABAIkgBAQAAAoAIgCACCAsBABAgBBMQAAAQBAg=</HashCode>
+      <FileName>LevelManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyDrawEngine" Collapsed="true">
+    <Position X="63.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GtGE4DBAgCgSwMAACNEOUAFARgZAEBJAlOoEAFAgAYQ=</HashCode>
+      <FileName>mydrawengine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyInputs" Collapsed="true">
+    <Position X="65.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SCAACAAwAKDAEAkIwCwggDBCFEBAKUjALAcUQjDnAAM=</HashCode>
+      <FileName>myinputs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySoundEngine" Collapsed="true">
+    <Position X="67" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAGAAAAAACAAAAAAIJADIAACA8AAUALAAAAA=</HashCode>
+      <FileName>mysoundengine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectManager" Collapsed="true">
+    <Position X="61.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAIAAIgAAAAAAIABAAAgACAIAIAAIAAAAA=</HashCode>
+      <FileName>ObjectManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlasmaBullet">
+    <Position X="47.25" Y="1.75" Width="5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAAAAAEQBAAAAAAAAYACEAAAAABBQAAAAAAAA=</HashCode>
+      <FileName>PlasmaBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerUp">
+    <Position X="57.25" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgABIAAAAQAAAAAAAAAAAAEAAAAABAAAAAAAAAg=</HashCode>
+      <FileName>PowerUp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rock">
+    <Position X="7.25" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAIABAAQAAIEAAABAAAAkAAAIABAAAAAAAAAA=</HashCode>
+      <FileName>rock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IShape2D" Collapsed="true">
+    <Position X="5.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point2D" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAIACAAAAAAAAAAAABAAAAAAABAAAAAAAAAAoA=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Segment2D" Collapsed="true">
+    <Position X="2.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAAAAAAEAAAAhBAAAABAAAAAAAFAAEAAIABACKE=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Circle2D" Collapsed="true">
+    <Position X="5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAgAQAAAAEABAAAAAABAAAAAAABAAAgAEAgAAIA=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rectangle2D" Collapsed="true">
+    <Position X="7.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAgAAEQAgAAAABCAAAAABAAAQAAANAAAQAOAEAAIA=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AngledRectangle2D" Collapsed="true">
+    <Position X="9.5" Y="9.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAgEAAgCAAAABAAJABSAABBAAAAAACAAAAAAAEAAAII=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spaceship">
+    <Position X="11.5" Y="1.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AARAAAQAIABDQQAEIAQAAAAAAAEAAAYAFAQABAAABJg=</HashCode>
+      <FileName>spaceship.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector2D" Collapsed="true">
+    <Position X="63.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gkAAAAQAAAAAEgAAAAQAAQEAAAAAAAAABQAgIADAAAA=</HashCode>
+      <FileName>vector2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="PictureIndex" Collapsed="true">
+    <Position X="65.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>mydrawengine.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FontIndex" Collapsed="true">
+    <Position X="61.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>mydrawengine.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="SoundIndex" Collapsed="true">
+    <Position X="67" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>mysoundengine.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MusicIndex" Collapsed="true">
+    <Position X="63.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>mysoundengine.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="ErrorType" Collapsed="true">
+    <Position X="61.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>errortype.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MessageType" Collapsed="true">
+    <Position X="63.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAACAIAAAAAAAAAAA=</HashCode>
+      <FileName>LevelManager.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ObjectType" Collapsed="true">
+    <Position X="65.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAABAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>objecttypes.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
